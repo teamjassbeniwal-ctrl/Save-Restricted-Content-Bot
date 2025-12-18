@@ -3,15 +3,15 @@
 </h1>
 
 # Important Note : 
-- New repo link : https://github.com/devgaganin/Save-Restricted-Content-Bot-v3/tree/main
+- New repo link : https://github.com/teamjassbeniwal-ctrl/Save-Restricted-Content-Bot/
 - the every branch of this repo have uniques features and all are working branches so you can migrate and test from `v1` to `v4` the `v3` is more advance than all
 - thanks continue fork and edit
 
 
-[Telegram](https://t.me/Saverestrictedcontents01_bot) | [See Recent Updates](https://github.com/devgaganin/Save-Restricted-Content-Bot-V2/tree/v3#updates)
+[Telegram](https://t.me/Saverestrictedcontents01_bot) | [See Recent Updates](https://youtube.com/@jassbeniwaltech?si=YDpB-FicPgaWCGmn)
 
 ### Star the repo it motivate us to update new features
-see our live bot kn telegram to check the features [Advance Content Saver Bot](https://t.me/advance_content_saver_bot)
+see our live bot kn telegram to check the features [Save restrictions Bot](https://t.me/Saverestrictedcontents01_bot)
 
 ## 📚 About This Branch
 - This branch is based on `Pyrogram V2` offering enhanced stability and a forced login feature. User are not forced to login in bot for public channels but for public groups and private channel they have to do login.
@@ -367,4 +367,4 @@ Visit the [Terms of Use](https://github.com/devgaganin/Save-Restricted-Content-B
 **Note**: Changing the terms and commands doesn't magically make you a developer. Real development involves understanding the code, writing new functionalities, and debugging issues, not just renaming things. If only it were that easy!
 
 ### Special thanks to:
-- [Jass Beniwal](https://github.com/mautrix/telegram) for fast uploader connectivity bridge.
+- [Jass Beniwal]() for fast uploader connectivity bridge.
