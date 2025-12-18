@@ -3,10 +3,10 @@
 # File Name: shrink.py
 # Description: A Pyrogram bot for downloading files from Telegram channels or groups 
 #              and uploading them back to Telegram.
-# Author: Gagan
-# GitHub: https://github.com/devgaganin/
-# Telegram: https://t.me/team_spy_pro
-# YouTube: https://youtube.com/@dev_gagan
+# Author: Team JB
+# GitHub: https:/https://github.com/teamjassbeniwal-ctrl/github.com/
+# Telegram: https://t.me/TeamJB_bot
+# YouTube: https://youtube.com/@jassbeniwaltech/
 # Created: 2025-01-11
 # Last Modified: 2025-01-11
 # Version: 2.0.5
@@ -73,9 +73,9 @@ async def token_handler(client, message):
     msg = await app.get_messages(chat_id, 796)
     user_id = message.chat.id
     if len(message.command) <= 1:
-        image_url = "https://i.postimg.cc/v8q8kGyz/startimg-1.jpg"
-        join_button = InlineKeyboardButton("Join Channel", url="https://t.me/team_spy_pro")
-        premium = InlineKeyboardButton("Get Premium", url="https://t.me/kingofpatal")   
+        image_url = "https://i.ibb.co/k2P1Zt9k/image.jpg"
+        join_button = InlineKeyboardButton("Join Channel", url="https://t.me/allbotsupdates1")
+        premium = InlineKeyboardButton("Get Premium", url="https://t.me/TeamJB_bot")   
         keyboard = InlineKeyboardMarkup([
             [join_button],   
             [premium]    
