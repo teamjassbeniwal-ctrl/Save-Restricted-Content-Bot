@@ -1,7 +1,7 @@
 # ---------------------------------------------------
 # File Name: speedtest.py
 # Description: A Pyrogram bot for downloading files from Telegram channels or groups 
-#              and uploading them back to Telegram.
+#              and uploading them back to Telegram. to
 # Author: Team JB
 # GitHub: https:/https://github.com/teamjassbeniwal-ctrl/github.com/
 # Telegram: https://t.me/TeamJB_bot
@@ -85,7 +85,7 @@ async def speedtest(event):
 ├ <b>Country:</b> <code>{result['client']['country']}</code>
 ├ <b>ISP:</b> <code>{result['client']['isp']}</code>
 ├ <b>ISP Rating:</b> <code>{result['client']['isprating']}</code>
-╰ <b>Powered by Team SPY</b> 
+╰ <b>Powered by Team JB</b> 
 '''
     try:
         await event.reply(string_speed,file=path,parse_mode='html')
