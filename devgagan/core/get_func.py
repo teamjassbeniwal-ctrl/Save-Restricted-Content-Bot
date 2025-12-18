@@ -2,10 +2,10 @@
 # File Name: get_func.py
 # Description: A Pyrogram bot for downloading files from Telegram channels or groups 
 #              and uploading them back to Telegram.
-# Author: Gagan
-# GitHub: https://github.com/devgaganin/
-# Telegram: https://t.me/team_spy_pro
-# YouTube: https://youtube.com/@dev_gagan
+# Author: Team JB
+# GitHub: https:/https://github.com/teamjassbeniwal-ctrl/github.com/
+# Telegram: https://t.me/TeamJB_bot
+# YouTube: https://youtube.com/@jassbeniwaltech/
 # Created: 2025-01-11
 # Last Modified: 2025-01-11
 # Version: 2.0.5
@@ -208,7 +208,7 @@ class ProgressManager:
             f"│ **__Speed:__** {speed_mbps:.2f} Mbps\n"
             f"│ **__ETA:__** {eta_min:.2f} min\n"
             f"╰──────────────────╯\n\n"
-            f"**__Powered by Team SPY__**"
+            f"**__Powered by Team JB__**"
         )
 
 class CaptionFormatter:
@@ -595,7 +595,7 @@ class SmartTelegramBot:
             if free_check == 1:
                 # Free user - send with protection
                 reply_markup = InlineKeyboardMarkup([[
-                    InlineKeyboardButton("💎 Get Premium to Forward", url="https://t.me/kingofpatal")
+                    InlineKeyboardButton("💎 Get Premium to Forward", url="https://t.me/TeamJB")
                 ]])
                 await app.copy_message(target_chat_id, LOG_GROUP, result.id, protect_content=True, reply_markup=reply_markup)
             else:
@@ -919,7 +919,7 @@ class SmartTelegramBot:
             [Button.inline("Set Thumbnail", b'setthumb'), Button.inline("Remove Thumbnail", b'remthumb')],
             [Button.inline("PDF Watermark", b'pdfwt'), Button.inline("Video Watermark", b'watermark')],
             [Button.inline("Upload Method", b'uploadmethod')],
-            [Button.url("Report Issues", "https://t.me/team_spy_pro")]
+            [Button.url("Report Issues", "https://t.me/allbotsupdates1")]
         ]
         
         message = (
